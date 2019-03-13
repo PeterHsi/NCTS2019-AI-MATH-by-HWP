@@ -1,0 +1,10 @@
+name: NCTS2019-AI-MATH environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - seaborn
+  - ipywidgets
